@@ -1,6 +1,6 @@
 'use strict';
 
-var winUrl="http://127.0.0.1:5501"
+var winUrl="https://moveexpress.info"
 var apiUrl="https://delivry-server.onrender.com"
 /**
  * navbar toggle
